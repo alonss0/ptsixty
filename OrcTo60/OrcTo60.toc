@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: OrcTo60
+## Notes: Solo Orc Hunter and Rogue leveling routes for WoW Forever.
+## Version: 0.2.1
+## OptionalDeps: TomTom
+## SavedVariablesPerCharacter: OrcTo60DB
+
+Quests.lua
+Guide.lua
+Route.lua
+Rogue.lua
+OrcTo60.lua
